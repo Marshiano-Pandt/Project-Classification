@@ -80,12 +80,13 @@ password = 'sample_password'
 def get_db_url(database_name, host_name=host, password=password, username=username):
     return f'mysql+pymysql://{username}:{password}@{host_name}/{database_name}'
 
-Conclusion :
+Conclusion:
 
-customers that are senior citizens are more likely to churn.
-we can conclude that there is NO significant relationship between gender and churn.
-customers that have a partner are less likely to churn
-customers that do not have dependents are more likely to churn
+- Customers that are senior citizens are more likely to churn.
+- We can conclude that there is NO significant relationship between gender and churn.
+- Customers that have a partner are less likely to churn
+- Customers that do not have dependents are more likely to churn
+
 Recommendations:
 
 Look into why senior citizens are more likely to churn. Is it because of other companies offering better products or is it because of survival rate. If it is because of product look into products that could benefit senior citizens more.
