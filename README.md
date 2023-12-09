@@ -12,7 +12,7 @@ Project Goal
 - Use these drivers to develop a machine learning model to see if features chosen result in churning
 - Use the findings to further understand the customers and develop a plan on how to keep customers from churning
 
-My initial hypothesis is that drivers of churn will likely involve unsatisfied customers. Telco Services, or the lack thereof, might influence customers to churn. Services like tech support, phone service, internet service type, or how much a customer is paying per month.
+
 
 # The Plan
 
