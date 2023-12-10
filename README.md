@@ -89,7 +89,7 @@ Conclusion:
 
 Recommendations:
 
-Look into why senior citizens are more likely to churn, is it because of other companies offering better products or is it because of survival rate. If it is because of product look into products that could benefit senior citizens more.
-There is no significant relationship between gender and churn, I recommend looking at different variable within the data set.
-For customers with no dependents or partners, what features or offers could be marketed to customers that are single.
-Given more time, I would look into all variables on why customers are likely ro churn.
+- Look into why senior citizens are more likely to churn, is it because of other companies offering better products or is it because of survival rate. If it is because of product look into products that could benefit senior citizens more.
+- There is no significant relationship between gender and churn, I recommend looking at different variable within the data set.
+- For customers with no dependents or partners, what features or offers could be marketed to customers that are single.
+- Given more time, I would look into all variables on why customers are likely ro churn.
