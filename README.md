@@ -8,9 +8,9 @@ Telco, a telecommunications enterprise, provides a wide array of services cateri
 
 Project Goal
 
-- Discover drivers of customers churning
-- Use these drivers to develop a machine learning model to see if features chosen result in churning
-- Use the findings to further understand the customers and develop a plan on how to keep customers from churning
+- Look into drivers for customers churning
+- Develop models to see if features chosen result in churning
+- Use the findings to understand why customers are churning and develop a plan to lower customers from churning
 
 
 
