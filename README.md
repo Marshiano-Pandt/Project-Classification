@@ -6,7 +6,7 @@ Project Description
 
 Telco, a telecommunications enterprise, provides a wide array of services catering to a diverse clientele. This project we will try to find out why some Telco customers are churning.
 
-Project Goal
+Project Goal:
 
 - Look into drivers for customers churning
 - Develop models to see if features chosen result in churning
